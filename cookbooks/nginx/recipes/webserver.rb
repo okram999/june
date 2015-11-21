@@ -11,12 +11,12 @@ with_machine_options :ssh_username => 'centos',
 
 #ENV1 = 'dev'
 
-machine'xmo2-dev' do
+machine'xmo2-dev1' do
   chef_environment 'dev'
   recipe 'nginx::default'
 end
 
-machine'second-server-aws' do
+machine'xmo2-dev2' do
   chef_environment 'dev'
   recipe 'nginx::default'
 end
