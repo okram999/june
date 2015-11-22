@@ -1,0 +1,13 @@
+name             'xmo'
+maintainer       'nirish okram'
+maintainer_email 'nirish.okram@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures xmo'
+long_description 'Installs/Configures xmo'
+version          '0.1.11'
+
+depends 'chef-client'
+depends 'yum'
+depends 'yum-epel'
+depends 'java'
+depends 'ark'

@@ -1,0 +1,15 @@
+{
+  "id": "dev",
+  "mysql": {
+    "encrypted_data": "oIHT673/RRQ4iU4LWCymj3KqgedwR/e/V57kljl8kSnFpNc5BGW8u0DwA00m\nMrQB\n",
+    "iv": "qZX9zR/MCJCUdECa/HS0KQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "ssh": {
+    "encrypted_data": "6i141fSmkO+5C418czc9da0+Z4RGvrwGMB1xNHPILNdNQXZs9CUtCZse6jTv\n+XcX\n",
+    "iv": "wZrZlR4GGIdSmWMxJB2ARQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
